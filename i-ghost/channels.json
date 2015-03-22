@@ -1,0 +1,951 @@
+[
+  {
+    "table" : "Channels_json",
+    "data" : [
+      {
+        "cat_pos" : 0,
+        "id" : 131,
+        "icon" : "perviy_hd",
+        "group" : 1,
+        "name" : "Первый HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 137,
+        "icon" : "rossia_hd",
+        "group" : 1,
+        "name" : "Россия HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 169,
+        "icon" : "rossia2",
+        "group" : 1,
+        "name" : "Россия 2",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 139,
+        "icon" : "rossia24",
+        "group" : 1,
+        "name" : "Россия 24",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 190,
+        "icon" : "rtrplaneta",
+        "group" : 1,
+        "name" : "Россия РТР",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 197,
+        "icon" : "rtd",
+        "group" : 1,
+        "name" : "RTД HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 134,
+        "icon" : "ntv",
+        "group" : 1,
+        "name" : "НТВ",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 7,
+        "id" : 105,
+        "icon" : "rbk",
+        "group" : 1,
+        "name" : "РБК",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 8,
+        "id" : 121,
+        "icon" : "perec",
+        "group" : 1,
+        "name" : "Перец",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 9,
+        "id" : 103,
+        "icon" : "pyatijkanal",
+        "group" : 1,
+        "name" : "5 Канал",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 10,
+        "id" : 135,
+        "icon" : "tnt",
+        "group" : 1,
+        "name" : "ТНТ",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 11,
+        "id" : 132,
+        "icon" : "rentv",
+        "group" : 1,
+        "name" : "РЕН TВ",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 12,
+        "id" : 181,
+        "icon" : "pyatnica",
+        "group" : 1,
+        "name" : "Пятница",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 13,
+        "id" : 140,
+        "icon" : "zvezda",
+        "group" : 1,
+        "name" : "Телеканал Звезда",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 14,
+        "id" : 136,
+        "icon" : "tv3",
+        "group" : 1,
+        "name" : "TV 3",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 15,
+        "id" : 138,
+        "icon" : "sts",
+        "group" : 1,
+        "name" : "СТС",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 16,
+        "id" : 183,
+        "icon" : "sts_love",
+        "group" : 1,
+        "name" : "СТС Love",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 17,
+        "id" : 187,
+        "icon" : "dwanadwa",
+        "group" : 1,
+        "name" : "2X2",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 18,
+        "id" : 106,
+        "icon" : "comedy",
+        "group" : 1,
+        "name" : "Comedy TV",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 175,
+        "icon" : "mega",
+        "group" : 2,
+        "name" : "Мега",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 174,
+        "icon" : "inter",
+        "group" : 2,
+        "name" : "Интер",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 158,
+        "icon" : "ictv",
+        "group" : 2,
+        "name" : "ICTV",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 156,
+        "icon" : "stb",
+        "group" : 2,
+        "name" : "CTB",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 189,
+        "icon" : "pyatij_ukraina",
+        "group" : 2,
+        "name" : "5 Канал Украина",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 157,
+        "icon" : "noviy",
+        "group" : 2,
+        "name" : "Новый канал",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 167,
+        "icon" : "trk_ukraina",
+        "group" : 2,
+        "name" : "ТРК Украина",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 7,
+        "id" : 172,
+        "icon" : "odinplusodin",
+        "group" : 2,
+        "name" : "1+1",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 8,
+        "id" : 173,
+        "icon" : "dwaplusdwa",
+        "group" : 2,
+        "name" : "2+2",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 203,
+        "icon" : "oruzhie",
+        "group" : 3,
+        "name" : "Оружие",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 168,
+        "icon" : "tlc",
+        "group" : 3,
+        "name" : "TLC",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 212,
+        "icon" : "eureka_hd",
+        "group" : 3,
+        "name" : "Eureka HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 124,
+        "icon" : "moya_planeta",
+        "group" : 3,
+        "name" : "Моя Планета",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 164,
+        "icon" : "russian_travel_guide",
+        "group" : 3,
+        "name" : "Russian Travel Guide",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 155,
+        "icon" : "ohota_i_rybalka",
+        "group" : 3,
+        "name" : "Охота и Рыбалка",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 194,
+        "icon" : "ohotnik_i_ribolov",
+        "group" : 3,
+        "name" : "Охотник и рыболов",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 7,
+        "id" : 125,
+        "icon" : "nauka_20",
+        "group" : 3,
+        "name" : "Наука 2.0",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 8,
+        "id" : 101,
+        "icon" : "viasath",
+        "group" : 3,
+        "name" : "Viasat History",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 9,
+        "id" : 161,
+        "icon" : "hd_life",
+        "group" : 3,
+        "name" : "HD LIFE",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 10,
+        "id" : 198,
+        "icon" : "teleputeshestvija_hd",
+        "group" : 3,
+        "name" : "Телепутешествия HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 11,
+        "id" : 210,
+        "icon" : "docu_box_hd",
+        "group" : 3,
+        "name" : "DocuBox HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 12,
+        "id" : 211,
+        "icon" : "fastandfunbox_hd",
+        "group" : 3,
+        "name" : "Fast & FunBox HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 13,
+        "id" : 206,
+        "icon" : "travel_adventrure_hd",
+        "group" : 3,
+        "name" : "Travel+Adventure HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 14,
+        "id" : 113,
+        "icon" : "history",
+        "group" : 3,
+        "name" : "HISTORY",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 15,
+        "id" : 116,
+        "icon" : "nat_geographic",
+        "group" : 3,
+        "name" : "National Geographic HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 16,
+        "id" : 149,
+        "icon" : "nat_geo_wild",
+        "group" : 3,
+        "name" : "Nat Geo Wild",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 17,
+        "id" : 114,
+        "icon" : "animalplanet",
+        "group" : 3,
+        "name" : "Animal Planet",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 18,
+        "id" : 177,
+        "icon" : "discovery_hd",
+        "group" : 3,
+        "name" : "Discovery Сhannel HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 19,
+        "id" : 213,
+        "icon" : "discovery_showcase_hd",
+        "group" : 3,
+        "name" : "Discovery HD Showcase",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 20,
+        "id" : 145,
+        "icon" : "discovery_world",
+        "group" : 3,
+        "name" : "Discovery World",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 21,
+        "id" : 146,
+        "icon" : "discovery_science",
+        "group" : 3,
+        "name" : "Discovery Science",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 22,
+        "id" : 115,
+        "icon" : "discovery_id",
+        "group" : 3,
+        "name" : "Discovery Investigation",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 23,
+        "id" : 205,
+        "icon" : "id_x",
+        "group" : 3,
+        "name" : "ID Xtra",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 24,
+        "id" : 179,
+        "icon" : "kuhnya",
+        "group" : 3,
+        "name" : "Кухня",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 25,
+        "id" : 216,
+        "icon" : "eda_hd",
+        "group" : 3,
+        "name" : "Еда HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 170,
+        "icon" : "premiera",
+        "group" : 4,
+        "name" : "Премьера",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 171,
+        "icon" : "kinoklub",
+        "group" : 4,
+        "name" : "Киноклуб",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 126,
+        "icon" : "kinohit",
+        "group" : 4,
+        "name" : "Кинохит",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 133,
+        "icon" : "kino_plus",
+        "group" : 4,
+        "name" : "Kиноплюс",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 128,
+        "icon" : "nashe_novoye_kino",
+        "group" : 4,
+        "name" : "Новое Кино",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 122,
+        "icon" : "russkij_illusion",
+        "group" : 4,
+        "name" : "Русский Иллюзион",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 204,
+        "icon" : "russkij_detectiv",
+        "group" : 4,
+        "name" : "Русский детектив",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 7,
+        "id" : 207,
+        "icon" : "nst_strashnoe",
+        "group" : 4,
+        "name" : "НСТ (Страшное)",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 8,
+        "id" : 208,
+        "icon" : "filmbox_arthouse",
+        "group" : 4,
+        "name" : "FilmBox Arthouse",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 9,
+        "id" : 209,
+        "icon" : "filmbox_russia",
+        "group" : 4,
+        "name" : "FilmBox Russia",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 10,
+        "id" : 195,
+        "icon" : "ntv3d",
+        "group" : 4,
+        "name" : "НТВ-ПЛЮС 3D",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 11,
+        "id" : 214,
+        "icon" : "ostrosyuzhetnoe_hd",
+        "group" : 4,
+        "name" : "Остросюжетное HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 12,
+        "id" : 212,
+        "icon" : "kino_premium_hd",
+        "group" : 4,
+        "name" : "КиноПремиум HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 13,
+        "id" : 217,
+        "icon" : "semejnoe_hd",
+        "group" : 4,
+        "name" : "Семейное HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 14,
+        "id" : 107,
+        "icon" : "kinoreys_1",
+        "group" : 4,
+        "name" : "Кинорейс 1",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 15,
+        "id" : 108,
+        "icon" : "kinoreys_2",
+        "group" : 4,
+        "name" : "Кинорейс 2",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 16,
+        "id" : 160,
+        "icon" : "hd_kino",
+        "group" : 4,
+        "name" : "HD Кино",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 17,
+        "id" : 162,
+        "icon" : "hd_kino2",
+        "group" : 4,
+        "name" : "HD Кино 2",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 18,
+        "id" : 202,
+        "icon" : "tv1000premium_hd",
+        "group" : 4,
+        "name" : "TV 1000 Premium HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 19,
+        "id" : 200,
+        "icon" : "tv1000megahit_hd",
+        "group" : 4,
+        "name" : "TV 1000 Megahit HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 20,
+        "id" : 201,
+        "icon" : "tv1000comedy_hd",
+        "group" : 4,
+        "name" : "TV 1000 Comedy HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 21,
+        "id" : 117,
+        "icon" : "amedia_1",
+        "group" : 4,
+        "name" : "Амедиа 1",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 22,
+        "id" : 151,
+        "icon" : "amedia_premium_hd",
+        "group" : 4,
+        "name" : "Amedia Premium HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 23,
+        "id" : 110,
+        "icon" : "tv1000",
+        "group" : 4,
+        "name" : "TV1000",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 24,
+        "id" : 100,
+        "icon" : "tv1000action",
+        "group" : 4,
+        "name" : "TV 1000 Action",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 25,
+        "id" : 123,
+        "icon" : "tv1000russkoe_kino",
+        "group" : 4,
+        "name" : "TV1000 русское кино",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 26,
+        "id" : 104,
+        "icon" : "india_tv",
+        "group" : 4,
+        "name" : "Индия ТВ",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 27,
+        "id" : 152,
+        "icon" : "universal_channel",
+        "group" : 4,
+        "name" : "Universal Channel",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 28,
+        "id" : 196,
+        "icon" : "paramount_comedy",
+        "group" : 4,
+        "name" : "Paramount Comedy",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 29,
+        "id" : 182,
+        "icon" : "foxrussia",
+        "group" : 4,
+        "name" : "Fox",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 30,
+        "id" : 129,
+        "icon" : "foxlife",
+        "group" : 4,
+        "name" : "Fox Life",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 31,
+        "id" : 180,
+        "icon" : "sony_sci_fi",
+        "group" : 4,
+        "name" : "Sony Sci-Fi",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 153,
+        "icon" : "muzika",
+        "group" : 5,
+        "name" : "Музыка Первого",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 109,
+        "icon" : "rutv",
+        "group" : 5,
+        "name" : "Ru TV",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 184,
+        "icon" : "europaplus",
+        "group" : 5,
+        "name" : "Europa Plus",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 147,
+        "icon" : "mtv_dance",
+        "group" : 5,
+        "name" : "MTV Dance",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 165,
+        "icon" : "vh1",
+        "group" : 5,
+        "name" : "VH1 Europe",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 119,
+        "icon" : "world_fashion",
+        "group" : 5,
+        "name" : "World Fashion",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 199,
+        "icon" : "mult",
+        "group" : 6,
+        "name" : "Мульт",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 120,
+        "icon" : "karusel",
+        "group" : 6,
+        "name" : "Карусель",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 111,
+        "icon" : "tiji",
+        "group" : 6,
+        "name" : "TiJi",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 150,
+        "icon" : "jimjam",
+        "group" : 6,
+        "name" : "JimJam",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 118,
+        "icon" : "disney_channel",
+        "group" : 6,
+        "name" : "Disney Channel",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 127,
+        "icon" : "nickelodeon",
+        "group" : 6,
+        "name" : "Nickelodeon CIS",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 144,
+        "icon" : "cartoon_network",
+        "group" : 6,
+        "name" : "Cartoon Network",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 0,
+        "id" : 186,
+        "icon" : "avtoplus",
+        "group" : 7,
+        "name" : "Авто Плюс",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 1,
+        "id" : 188,
+        "icon" : "hd_sport",
+        "group" : 7,
+        "name" : "HD Спорт",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 2,
+        "id" : 163,
+        "icon" : "sport_ru_hd",
+        "group" : 7,
+        "name" : "SPORT 1 HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 3,
+        "id" : 176,
+        "icon" : "eurosport_hd",
+        "group" : 7,
+        "name" : "Eurosport HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 4,
+        "id" : 192,
+        "icon" : "eurosport2_hd",
+        "group" : 7,
+        "name" : "Eurosport 2 HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 5,
+        "id" : 143,
+        "icon" : "sport_plus",
+        "group" : 7,
+        "name" : "НТВ+ Спорт Плюс",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 6,
+        "id" : 141,
+        "icon" : "tennis",
+        "group" : 7,
+        "name" : "НТВ+ Теннис",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 7,
+        "id" : 166,
+        "icon" : "basketbol",
+        "group" : 7,
+        "name" : "НТВ+ Баскетбол",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 8,
+        "id" : 130,
+        "icon" : "football",
+        "group" : 7,
+        "name" : "НТВ+ Футбол HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 9,
+        "id" : 142,
+        "icon" : "football2",
+        "group" : 7,
+        "name" : "НТВ+ Футбол 2 HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 10,
+        "id" : 185,
+        "icon" : "football3",
+        "group" : 7,
+        "name" : "НТВ+ Футбол 3 HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 11,
+        "id" : 193,
+        "icon" : "nash_football_hd",
+        "group" : 7,
+        "name" : "НТВ+ Наш Футбол HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 12,
+        "id" : 159,
+        "icon" : "futbol_odin",
+        "group" : 7,
+        "name" : "Футбол 1",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 13,
+        "id" : 191,
+        "icon" : "futbol_dwa",
+        "group" : 7,
+        "name" : "Футбол 2",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 14,
+        "id" : 148,
+        "icon" : "extremesports",
+        "group" : 7,
+        "name" : "Extreme Sports",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 15,
+        "id" : 102,
+        "icon" : "viasat_sport_east",
+        "group" : 7,
+        "name" : "Viasat Sport East HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 16,
+        "id" : 178,
+        "icon" : "khl_hd",
+        "group" : 7,
+        "name" : "КХЛ HD",
+        "res" : "hd"
+      },
+      {
+        "cat_pos" : 17,
+        "id" : 154,
+        "icon" : "boycovskiy",
+        "group" : 7,
+        "name" : "Бойцовский Клуб",
+        "res" : "sd"
+      },
+      {
+        "cat_pos" : 18,
+        "id" : 112,
+        "icon" : "boets",
+        "group" : 7,
+        "name" : "Боец",
+        "res" : "sd"
+      }
+    ]
+  }
+]
